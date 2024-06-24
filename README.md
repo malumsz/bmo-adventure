@@ -9,6 +9,10 @@ Código utilizando *HTML*, *CSS*, e *JS* para um clone do jogo Dinossauro do Goo
 
 ---
 
+## Jogar 🎮
+
+https://malumsz.github.io/bmo-adventure/
+
 ## Preview 📷
 
 ![Imgur Image](https://imgur.com/DdmzLkJ.png)
